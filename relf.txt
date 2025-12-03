@@ -1,0 +1,1 @@
+My experimental clock is super simple, it just shows the four seasons instead of numbers. Every few seconds it changesد winter has snow and the moon, spring has rain, summer has a big bright sun, and fall has orange leaves. Honestly, I didn’t have any crazy idea, I just thought using seasons to show time makes sense because they already represent change.
